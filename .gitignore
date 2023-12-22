@@ -6,6 +6,7 @@ __pycache__/
 *.csv
 *.png
 *.geojson
+*.jpg
 
 # C extensions
 *.so
