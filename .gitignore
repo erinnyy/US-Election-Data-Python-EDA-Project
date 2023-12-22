@@ -5,6 +5,7 @@ __pycache__/
 .DS_Store
 *.csv
 *.png
+*.geojson
 
 # C extensions
 *.so
