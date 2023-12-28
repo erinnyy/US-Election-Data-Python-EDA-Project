@@ -1,4 +1,6 @@
 # US-Election-Data-Python-EDA-Project
 I am currently a data science fellow at the New York City Data Science Academy.
 
-This is my first project with the Academy and I try to draw insight from looking into the U.S. Presidential Election results from 1976 to 2020. The dataset I obtained is compiled by MIT Election Data and Science Lab (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX)
+This is my first project with the Academy. In this analysis the data was explored, several features were engineered, and finally visualizations were created to reveal the pattern and trend to help answer the main research question "which states we should prioritize in the coming up 2024 Presidential Election". Please find the link to my Google Slides deck below.
+
+https://docs.google.com/presentation/d/1JeBeGHTEbiovAJBkZCWeowQtpcheQ3VyR2BmOlG3qWE/edit#slide=id.g278b1dea020_0_199
