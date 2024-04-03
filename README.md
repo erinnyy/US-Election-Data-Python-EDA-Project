@@ -12,5 +12,5 @@ For this project, I primarily focused on the Democratic Party and the Republican
 Please find the link to my Google Slides deck below.
 https://docs.google.com/presentation/d/1JeBeGHTEbiovAJBkZCWeowQtpcheQ3VyR2BmOlG3qWE/edit#slide=id.g278b1dea020_0_199
 
-Please find the link to my blog post below.
+Please find the link to my blog post here.
 https://nycdatascience.com/blog/student-works/road-to-victory-2024-presidential-election/
