@@ -1,7 +1,7 @@
 # US-Election-Data-Python-EDA-Project
 I am currently a data science fellow at the New York City Data Science Academy.
 
-The 2024 Presidential Election is coming up this year so I thought it would be interesting to visit this topic for my Python EDA(Exploratory Data Analysis) project.
+The 2024 Presidential Election is coming up this year so I thought it would be interesting to visit this topic for my Python EDA (Exploratory Data Analysis) project.
 
 Running a political campaign might seem to be very different from running a business, but the two have a lot in common. A political campaign has to deal  with limited resources to deploy within a limited time frame just like any other business. That being said, inevitably, deciding which states to prioritize is crucial for campaign managers. 
 
